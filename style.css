@@ -8,8 +8,11 @@ h1{
     height:500px;
     border: 2px solid black;
     margin: 0 auto;
+    margin-top: 400px;
     padding: 150px;
+    position: relative;
     box-sizing: border-box;
+    border-color: aqua;
     background-position: center;
     background-size: cover;
 }
