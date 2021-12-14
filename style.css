@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-family: sans-serif,monospace;
+    font-weight: 200px;
+}
+#creditnals-box{
+    width:500px;
+    height:500px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 150px;
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(bg2.jpg);
+    position:relative;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+#head{
+    background-color: ;
+    padding: 2px;
+    margin: 0 auto;
+    color: brown;
+}
+p{
+    color: aliceblue;
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: blanchedalmond;
+}
+#b{
+  background-color: dimgrey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+}
